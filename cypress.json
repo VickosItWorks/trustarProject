@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://techport.nasa.gov/",
+  "video": false,
+  "env": {
+    "apiBase": "https://api.nasa.gov/techport/api/projects/search",
+    "apiKey": "?api_key=alwwfWsTkvNLSbmv6IJpoxsibIH065zaOW1uyDxg"
+  }
+}

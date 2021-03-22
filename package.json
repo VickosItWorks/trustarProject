@@ -1,0 +1,19 @@
+{
+  "name": "trustar",
+  "version": "1.0.0",
+  "description": "tech challenge",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "api",
+    "e2e"
+  ],
+  "author": "Vicko",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
